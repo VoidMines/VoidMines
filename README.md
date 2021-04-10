@@ -1,0 +1,3 @@
+- 👋 This is the official Github of the server VoidMines
+- 👀 Likely here to post updates, and for bug reports.
+- 📫 Contact us at salesvoidmines@gmail.com
